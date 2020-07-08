@@ -1,13 +1,3 @@
-#header {
-    background-image: url(pexels-photo-66459-header.jpg);
-    height: 140px;
-    margin: 0px auto;
-    width: 920px;
-    text-align: center;
-    font: 1em Noto Serif Bengali;
-    font-size: 67px;
-    -webkit-text-stroke-color: aliceblue;
-}
 
 #container {
     text-align: center;
