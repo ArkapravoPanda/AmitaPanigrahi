@@ -1,0 +1,54 @@
+#header {
+    background-image: url(pexels-photo-66459-header.jpg);
+    height: 140px;
+    margin: 0px auto;
+    width: 920px;
+    text-align: center;
+    font: 1em Noto Serif Bengali;
+    font-size: 67px;
+    -webkit-text-stroke-color: aliceblue;
+}
+
+#container {
+    text-align: center;
+    border-radius: 20px;
+    size: 150px;
+}
+
+button {
+    border-radius: 20px;
+    width: 150px;
+    height: 40px;
+}
+
+body {
+    background-image: url(157-1572191_hd-wallpapers-for-website-background-cool-background-image.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+video {
+    text-align: center;
+}
+
+.iframe-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+.iframe-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+h2 {
+    text-align: left;
+    font: 1em Noto Serif Bengali;
+    font-size: 45px;
+    -webkit-text-stroke-color: rgb(255, 255, 255);
+}
