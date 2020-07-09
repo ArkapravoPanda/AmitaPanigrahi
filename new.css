@@ -1,11 +1,44 @@
+#header {
+    background-image: url(pexels-photo-66459-header.jpg);
+    height: 140px;
+    margin: 0px auto;
+    border-radius: 50px;
+    width: 920px;
+    text-align: center;
+    font: 1em Noto Serif Bengali;
+    font-size: 67px;
+    -webkit-text-stroke-color: aliceblue;
+    border-style: outset;
+    border-color: rgb(179, 255, 0);
+}
 
 #container {
     text-align: center;
     border-radius: 20px;
     size: 150px;
+    font-size: 30px;
 }
 
-button {
+#playlist {
+    background-color: darkorange;
+    height: 60px;
+    border-radius: 50px;
+    width: 920px;
+    font-family: 'Times New Roman', Times, serif;
+    -webkit-text-stroke-color: aliceblue;
+    -webkit-text-stroke-width: 1px;
+    font-size: 50px;
+    padding-bottom: 35px;
+    border-style: outset;
+    border-color: rgb(255, 217, 0);
+}
+
+#nmaa {
+    -webkit-text-stroke-color: rgb(0, 53, 114);
+    -webkit-text-stroke-width: 2px;
+}
+
+#btnOne {
     border-radius: 20px;
     width: 150px;
     height: 40px;
@@ -17,7 +50,7 @@ body {
     background-attachment: fixed;
 }
 
-video {
+#video {
     text-align: center;
 }
 
