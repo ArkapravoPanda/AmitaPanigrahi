@@ -5,7 +5,7 @@
     border-radius: 50px;
     width: 920px;
     text-align: center;
-    font: 1em Noto Serif Bengali-Regular;
+    font: 1em Noto Serif Bengali;
     font-size: 67px;
     -webkit-text-stroke-color: aliceblue;
     border-style: outset;
@@ -24,7 +24,7 @@
     height: 60px;
     border-radius: 50px;
     width: 920px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Shadows Into Light', cursive;
     -webkit-text-stroke-color: aliceblue;
     -webkit-text-stroke-width: 1px;
     font-size: 50px;
@@ -36,6 +36,7 @@
 #nmaa {
     -webkit-text-stroke-color: rgb(0, 53, 114);
     -webkit-text-stroke-width: 2px;
+    font-family: 'CharuChandan3D', sans-serif;
 }
 
 #btnOne {
@@ -74,4 +75,28 @@ h2 {
     font: 1em Noto Serif Bengali;
     font-size: 45px;
     -webkit-text-stroke-color: rgb(255, 255, 255);
+}
+
+#amita {
+    background-size: 400%;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background: linear-gradient(56deg, rgba(255, 0, 0, 0.986), rgb(217, 1, 255), rgb(0, 98, 255), rgb(0, 98, 255));
+    float: left;
+    filter: blur(25px);
+    position: relative;
+    bottom: 30px;
+}
+
+#btnOne {
+    background-color: red;
+    float: center;
+    position: relative;
+    right: 50px;
+}
+
+#ama {
+    position: relative;
+    right: 175px;
 }
